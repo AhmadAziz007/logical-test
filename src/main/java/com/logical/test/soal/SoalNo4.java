@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SoalNo4 {
 
     public static void main(String[] args) {
-        /**
+
         int[] prices1 = {7, 8, 3, 10, 8};
         int[] prices2 = {5, 12, 11, 12, 10};
         int[] prices3 = {7, 18, 27, 10, 29};
@@ -17,7 +17,7 @@ public class SoalNo4 {
         System.out.println("Input 3: " + getBestStockPrice(prices3));
         System.out.println("Input 4: " + getBestStockPrice(prices4));
         System.out.println("Input 5: " + getBestStockPrice(prices5));
-        **/
+
 
         Scanner scanner = new Scanner(System.in);
 
